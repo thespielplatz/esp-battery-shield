@@ -1,4 +1,7 @@
 # ESP32 - Battery Shield 
+_by [#thespielplatz](https://t.me/thespielplatz)_
+
+[![MIT License Badge](docs/img/license-badge.svg)](LICENSE)
 
 This project demonstrates how to connect a 3.7V LiPo battery to the LiPo shield for the D1 and enables the ability to read the battery voltage.
 
@@ -115,3 +118,8 @@ This lithium battery shield provides a means of powering your D1 mini, or D1 min
 - Blue LED lights up when charging is complete.
 - Red LED lights up during charging.
 - J1: Set the maximum charging current to 0.5A or 1A.
+
+
+## Tip Me
+
+If you like this project, give it a star! If you love it, fork it and take it out for dinner. 🌟🍽️ And hey, why not [send some tip love?](https://thespielplatz.com/tip-jar)
